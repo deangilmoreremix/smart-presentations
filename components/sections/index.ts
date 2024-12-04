@@ -1,0 +1,13 @@
+export { HeroSection } from "./hero";
+export { InputSection } from "./input";
+export { GettingStartedSection } from "./getting-started";
+export { PreviewSection } from "./preview";
+export { HowItWorksSection } from "./how-it-works";
+export { FeaturesSection } from "./features";
+export { IntegrationsSection } from "./integrations";
+export { PresentationTypesSection } from "./presentation-types";
+export { TemplatesSection } from "./templates";
+export { PricingSection } from "./pricing";
+export { TestimonialsSection } from "./testimonials";
+export { FAQSection } from "./faq";
+export { CTASection } from "./cta";
